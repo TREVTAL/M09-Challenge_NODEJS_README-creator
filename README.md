@@ -1,27 +1,71 @@
 
-#Jorge
+# Funny Dictionary
+
+![Badge](https://img.shields.io/static/v1?label=License&message=The%20Unlicense&color=yellowgreen)
 
 
-el mero mero
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Test](#test)
+- [License](#license)
+- [Contact](#contact)
 
 
-alksuf
+## Description 
+AS A Non Native English Speaker, I WANT To find a easy and fun way to lookup for unknown English words, SO THAT I can improve my English easier and communicate better
 
-lkjasbdv
 
-lkajbsf;lkjhabf
+## Installation
+Funny Dictionary has the following installation instructions:
 
-lakhbf
+* 1
+* 2
+* 3
+* 4
+* 5
 
-3  The Unlicense 
- 	License with no conditions, only limitations to author
 
-trevtal
 
-treval some email
+## Usage
+Funny Dictionary has the following usage instructions:
 
-https://img.shields.io/badge/License-3-yellowgreen
+* 1
+* 2
+* 3
+* 4
+* 5
 
-https://choosealicense.com/licenses/unlicense/
+
+
+## Credits
+Funny Dictionary's developer would like to give credit where credit is due. Thanks a lot to the following for their unmeasureable help
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+## Test
+If you would like to help us, please follow the steps to test this project:
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+## License 
+This project is licensed under the [The Unlicense](https://choosealicense.com/licenses/unlicense/) license.
+
+
+## Contact
+Please feel free to contact me at my email trevtal@gmail.com or give me a visit at my github page [trevtal](https://github.com/trevtal)
 
 
