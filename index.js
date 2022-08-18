@@ -129,7 +129,7 @@ inquirer.prompt([
       },
 ]).then((response) => {
     let licenseOption = response.license.charAt(0);
-    console.log(response.license);
+    // console.log(response.license);
     // installationArray = response.installation.split(';');
     // usageArray = response.usage.split(';');
     // creditArray = response.credit.split(';');
